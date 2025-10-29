@@ -1,4 +1,4 @@
-<img width="1082" height="732" alt="Exp 8 2(b)" src="https://github.com/user-attachments/assets/e9c3bbab-d06f-4cf1-938b-e62554e1085e" /><img width="1084" height="794" alt="Exp 8 2(a)" src="https://github.com/user-attachments/assets/aea533e5-2489-421e-a9db-b9f7c5863775" /><img width="1084" height="794" alt="Exp 8 2(a)" src="https://github.com/user-attachments/assets/ce2502ba-7825-4f5a-8073-e66fed3ee2e8" /># 🧪 Exp.8.2 — JWT Authentication
+🧪 Exp.8.2 — JWT Authentication
 
 This experiment demonstrates JWT Authentication and Protected Routes tested using **PostMan**.
 
