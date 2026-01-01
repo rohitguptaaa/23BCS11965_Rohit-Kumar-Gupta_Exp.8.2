@@ -18,4 +18,4 @@ This experiment demonstrates JWT Authentication and Protected Routes tested usin
 <img width="1216" height="445" alt="Exp 8 2(c)" src="https://github.com/user-attachments/assets/73760732-1f25-454f-b572-463e02635d16" />
 
 
-### ✍️ Made By **Rohit Gupta**
+### ✍️ Made By **Rohit Kumar Gupta**
